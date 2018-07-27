@@ -1,8 +1,8 @@
 EN
 
-## Changenge:  User Behavior
+## Challenge:  User Behavior
 
-###### A site has 4 web pages, each page has just 4 buttons identifyed by the letters A, B, C, D that when pressed foward the user to the next page. The chalenge is to build an algorith that predicts where (wich letter) the user will click, taking in consideration what the algorith has been learning along the navigation</p>
+###### A site has 4 web pages, each page has just 4 buttons identifyed by the letters A, B, C, D that when pressed foward the user to the next page. The challenge is to build an algorith that predicts where (wich letter) the user will click, taking in consideration what the algorith has been learning along the navigation</p>
 
 
 > Requisitos:
