@@ -16,6 +16,7 @@
 > Como funciona
 
 - python main.py
+
 O comando irá inicar uma aplicação web que poderá ser acessada através do navegador: http://127.0.0.1:5000/
 
 
