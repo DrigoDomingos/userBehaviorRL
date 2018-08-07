@@ -1,7 +1,7 @@
 
 
 
-## Challenge:  User Behavior
+## User Behavior - What's the next click?
 
 ###### A site has four web pages, each page has just four buttons identified by the letters A, B, C, D that when pressed forward the user to the next page. The challenge is to build an algorithm that predicts where (which letter) the user will click, taking in consideration what the algorithm has been learning along the navigation</p>
 
